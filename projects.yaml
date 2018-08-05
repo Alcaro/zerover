@@ -144,6 +144,9 @@ projects:
   - name: Pilosa
     gh_url: https://github.com/pilosa/pilosa
     url: https://www.pilosa.com/
+  - name: ReactOS
+    gh_url: https://github.com/reactos/reactos
+    url: https://www.reactos.org/
 
   # Non-GitHub projects below, manually updated
 
